@@ -35,12 +35,12 @@ This study focuses on the design of a MATLAB platform for non-orthogonal multipl
 
 the parameters in the code file are adjusted according to the table below:
 
-# Parameters                     # OMA                                           # NOMA
-System Level	                  Downlink	                                       Downlink
-Random User	                    2 users	                                         2 users
-Multi-cell	                   3;7;19 cells	                                     3;7;19 cells
-Frequency	                  900;1800;2100;2600 MHz	                        900;1800;2100;2600 MHz
-Propagation Model	          Okumura-Hata;Cost-231	                          Okumura-Hata;Cost-231
-Imperfect SIC	                      N/A	                                             ✔
-Interference	          Intercell interference;SINR	                    Intercell Interference;SINR
-Cell Capacity       	 User capacity;Ergodic sum capacity	           User capacity;Ergodic sum capacity
+|# Parameters          |           # OMA                               |            # NOMA
+|System Level	         |         Downlink	                             |          Downlink
+|Random User	         |           2 users	                           |              2 users
+|Multi-cell	           |        3;7;19 cells	                         |            3;7;19 cells
+|Frequency	           |       900;1800;2100;2600 MHz	                 |       900;1800;2100;2600 MHz
+|Propagation Model	   |       Okumura-Hata;Cost-231	                 |         Okumura-Hata;Cost-231
+|Imperfect SIC	       |               N/A	                           |                  ✔
+|Interference	         | Intercell interference;SINR	                 |   Intercell Interference;SINR
+|Cell Capacity       	 |User capacity;Ergodic sum capacity	           |User capacity;Ergodic sum capacity
