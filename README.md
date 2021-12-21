@@ -33,7 +33,7 @@ This study focuses on the design of a MATLAB platform for non-orthogonal multipl
 
 # About this code
 
-the parameters in the code file are adjusted according to the table below:
+The parameters in the code file are given below:
 
 |# Parameters          |           # OMA                               |            # NOMA                  |
 |----------------------|-----------------------------------------------|------------------------------------|
@@ -45,3 +45,32 @@ the parameters in the code file are adjusted according to the table below:
 |Imperfect SIC	       |               N/A	                           |                  ✔                 |
 |Interference	         | Intercell interference;SINR	                 |   Intercell Interference;SINR      |
 |Cell Capacity       	 |User capacity;Ergodic sum capacity	           |User capacity;Ergodic sum capacity  |
+
+# Software 
+Matlab R2017b or above
+Please download Runtime installer if you encounter .dll error.
+
+# Reference Papers
+[1]  Muhammad Basit Shahab, Mohammad Irfan, Md. Fazlul Kader, Soo Young Shin. "User pairing schemes for capacity maximization in non-orthogonal multiple access systems", Wireless Communications and Mobile Computing, Volume 16, No. 17, pp 2884-2894 September 2016. (IF: 0.922). 5G.
+
+[2]  Muhammad Basit Shahab, Md. Fazlul Kader, Soo Young Shin. "A Virtual User Pairing Scheme to Optimally Utilize the Spectrum of Unpaired Users in Non-orthogonal Multiple Access", IEEE Signal Processing Letters, Volume 23, No. 12, pp 1766-1770 October 2016. (IF: 1.661). 5G.
+
+[3]  Md. Fazlul Kader, Soo Young Shin. "Exploiting cooperative diversity with nonorthogonal multiple access over slow fading channel", International Journal of Electronics, Volume 104, No. 6, pp 1050-1062 February 2017. (IF: 0.729). 5G.
+
+[4]  Muhammad Basit Shahab, Soo Young Shin. "On the performance of a virtual user pairing scheme to efficiently utilize the spectrum of unpaired users in NOMA", Physical Communication, Volume 25, pp 492-501 October 2017. (IF: 1.522). 5G. 
+
+[5]  Muhammad Basit Shahab, Soo Young Shin. "On the performance of a virtual user pairing scheme to efficiently utilize the spectrum of unpaired users in NOMA", Physical Communication, Volume 25, No. 2, pp 492-501 December 2017. (IF: 1.522). 5G.  
+
+[6]  Muhammad Basit Shahab, Soo Young Shin. "User pairing and power allocation for non-orthogonal multiple access: Capacity maximization under data reliability constraints", Physical Communication, Volume 30, No. 1, pp 132-144 October 2018. (IF: 1.522). ITRC-2017.  
+
+[7]  Mohammed Belal Uddin, Md. Fazlul Kader, Anik Islam, Soo Young Shin. "Power Optimization of NOMA for Multi-Cell Networks", THE JOURNAL OF KOREA INFORMATION AND COMMUNICATIONS SOCIETY, Volume 43, No. 7, pp 1182-1190 July 2018. ITRC-2018.      
+
+[8] Fahri Wisnu Murti, Rahmat Faddli Siregar, Soo Young Shin. "Exploiting non-orthogonal multiple access in downlink coordinated multipoint transmission with the presence of channel estimation error", Physical Communication, May 2018. (IF: 1.583). 5G. (Under Review)   
+
+[9] Denny Kusuma Hendraningrat, Muhammad Basit Shahab, Soo Young Shin. "Virtual User Pairing Based Non-Orthogonal Multiple Access in Downlink Coordinated Multipoint Transmission", IEEE Communication Letter, April 2019. (Under Review)   
+
+[10] Man Hee Lee, Shahab Muhammad Basit, Soo Young Shin. "On the Performance of Non-orthogonal Multiple Access considering Backward Compatibility", Physical Communication, Priority Center-2019.
+
+[11] Mohammed Belal Uddin, Md. Fazlul Kader, Soo Young Shin. "Exploiting NOMA in D2D Assisted Full-Duplex Cooperative Relaying", Physical Communication, Priority Center-2018.
+
+[12] Denny Kusuma Hendraningrat, Bhaskara Narottama, Soo Young Shin. "Non-Orthogonal Multiple Access in Downlink Coordinated Multipoint Transmissions", Physical Communication, pp 1-26
