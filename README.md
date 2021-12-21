@@ -1,20 +1,19 @@
-# mMIMO-NOMA
-We are happy to announce the release of the "mMIMO-NOMA" 5G-Downlink MatLab code.
+# NOMA
 
-To get access to the simulator, please send an e-mail to WENS Laboratory (labwens@gmail.com) that contains :
+We are happy to announce the release of the NOMA Downlink System Level Simulator.
+
+To get access to the download link simulator, please send an e-mail to WENS Laboratory (labwens@gmail.com) including:
 
 1) Identity (name, date of birth, e-mail, phone number, address, and institution)
 
-2) The reason/purpose for using the mMIMO-NOMA Simulator.
+2) The reason/purpose for using the NOMA Simulator.
 
-The features are listed below. You can also check the list of features and the documentation of the new version on the webpage of the corresponding simulator.
+The features of thie simulator are listed below. You can also check the list of features and the documentation of the new version on the webpage of the corresponding simulator. You can download our paper regarding NOMA simulator from the link given below.
 
-You are welcome to post your questions/comments/feedback to the WENS Laboratory (labwens@gmail.com). Our team will try to support you as soon as possible. 
-
-Please also read the license agreement carefully to check whether you would need our permission to use the simulator.
+You are welcome to post your questions/comments/feedback to the WENS Laboratory (labwens@gmail.com). Our team will try to support you as soon as possible. Please also read the license agreement carefully to check whether you would need our permission to use the simulator.
 
 Best regards,
-The mMIMO-NOMA Simulator Team.
+The NOMA Simulator Team.
 
 
 # Paper
@@ -31,3 +30,5 @@ year={2021}, month={Sep}, pages={2388}}
 # Abstarct
 
 This study focuses on the design of a MATLAB platform for non-orthogonal multiple access (NOMA) based systems with link-level and system-level analyses. Among the different potential candidates for 5G, NOMA is gaining considerable attention owing to the many-fold increase in spectral efficiency as compared to orthogonal multiple access (OMA). In this study, a NOMA simulator is presented for two and more than two users in a single cell for link-level analysis; whereas, for system-level analysis, seven cells and 19 cells scenarios were considered. Long-term evolution (LTE) was used as the baseline for the NOMA simulator, while bit error rate (BER), throughput and spectral efficiency are used as performance metrics to analyze the simulator performance. Moreover, we demonstrated the application of the NOMA simulator for different simulation scenarios through examples. In addition, the performance of multi-carrier NOMA (MC-NOMA) was evaluated in the presence of AWGN, impulse noise, and intercell interference. To circumvent channel impairments, channel coding with linear precoding is suggested to improve the BER performance of the system.
+
+# About this code
