@@ -1,6 +1,7 @@
 # NOMA Simulator
 
-We are happy to announce the release of the NOMA Downlink System Level Simulator.
+We are happy to announce the release of the NOMA Downlink System Level Simulator source Code.
+You can download the matlab file given above.
 
 To get access to the download link simulator, please send an e-mail to WENS Laboratory (labwens@gmail.com) including:
 
