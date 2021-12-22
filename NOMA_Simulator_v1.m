@@ -28,7 +28,7 @@ y = sin(pi/6);
 %To change the number of cells please change the value to 1,2 or 3 for 19,7
 %or 3 cells respectively
 %number of cell
-num_of_cell = 2;
+num_of_cell = 1;
 if num_of_cell == 1
     N = 19;
 elseif num_of_cell == 2    
@@ -44,12 +44,12 @@ if num_of_user == 1
    u=2;
 end
 %cell diameter
-d = 2000;  %meter
+d = 1000;  %meter
 c = 3e8;  %speed of light
 %you can select the freqiency used in the simulation by choosing the value
 %of Freq as 1,2,3 or 4.
 %frequency
-Freq = 2;
+Freq = 1;
 if Freq == 1
    f=9e8;
 elseif Freq == 2
@@ -63,8 +63,8 @@ v = 4;    %pathloss exponent
 %Total transmit power and the powers associated to the users
 %Power
 Tx_Pwr = 30;%dbm = 1Watt
-P(1) = 0.2*30;
-P(2) = 0.8*30;
+P(1) = 0.2*Tx_Pwr;
+P(2) = 0.8*Tx_Pwr;
 %Interference Init
 Int(1)=0;
 Int(2)=0;
@@ -86,7 +86,7 @@ Bw = 20*10^6; %20 MHz
 imdB=-25; %dB
 im=10^(imdB/10);
 %Pathloss
-Pathloss = 1;
+Pathloss = 2;
 if Pathloss == 1 %Cost231
    PL=1;
 elseif Pathloss == 2 %Okumura-Hata
