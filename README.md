@@ -74,4 +74,4 @@ Please download Runtime installer if you encounter .dll error.
 
 [11] Mohammed Belal Uddin, Md. Fazlul Kader, Soo Young Shin. "Exploiting NOMA in D2D Assisted Full-Duplex Cooperative Relaying", Physical Communication, Priority Center-2018.
 
-[12] Denny Kusuma Hendraningrat, Bhaskara Narottama, Soo Young Shin. "Non-Orthogonal Multiple Access in Downlink Coordinated Multipoint Transmissions", Physical Communication, pp 1-26
+[12] Denny Kusuma Hendraningrat, Bhaskara Narottama, Soo Young Shin. "Non-Orthogonal Multiple Access in Downlink Coordinated Multipoint Transmissions", Physical Communication, pp 1-26.
