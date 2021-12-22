@@ -25,7 +25,7 @@ https://doi.org/10.3390/electronics10192388
 @article{2021, title={Link and System-Level NOMA Simulator: The Reproducibility of Research}, 
 volume={10}, ISSN={2079-9292}, DOI={10.3390/electronics10192388}, number={19}, journal={Electronics}, publisher={MDPI AG}, 
 author={Khan, Arsla and Usman, Muhammad Arslan and Usman, Muhammad Rehan and Ahmad, Muneeb and Shin, Soo-Young}, 
-year={2021}, month={Sep}, pages={2388},url={http://dx.doi.org/10.3390/electronics10192388},}
+year={2021}, month={Sep}, pages={2388}, url={http://dx.doi.org/10.3390/electronics10192388}}
 
 # Abstarct
 
