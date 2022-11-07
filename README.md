@@ -74,3 +74,5 @@ Please download Runtime installer if you encounter .dll error.
 [11] Mohammed Belal Uddin, Md. Fazlul Kader, Soo Young Shin. "Exploiting NOMA in D2D Assisted Full-Duplex Cooperative Relaying", Physical Communication, Priority Center-2018.
 
 [12] Denny Kusuma Hendraningrat, Bhaskara Narottama, Soo Young Shin. "Non-Orthogonal Multiple Access in Downlink Coordinated Multipoint Transmissions", Physical Communication, pp 1-26.
+
+[13] Muneeb Ahmad, I Nyoman Apraz Ramatryana, Soo Young Shin. "NOMA and OMA Comparison for Multiple Antenna Technologies under High Capacity Constraints for 5G and Beyond 5G", Journal of Korean Institute of Communications and Information Sciences, Volume 45, No. 11, pp 2004-2013 November 2020. 2020년 교내과제.
