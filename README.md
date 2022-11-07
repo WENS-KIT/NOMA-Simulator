@@ -65,9 +65,9 @@ Please download Runtime installer if you encounter .dll error.
 
 [7]  Mohammed Belal Uddin, Md. Fazlul Kader, Anik Islam, Soo Young Shin. "Power Optimization of NOMA for Multi-Cell Networks", THE JOURNAL OF KOREA INFORMATION AND COMMUNICATIONS SOCIETY, Volume 43, No. 7, pp 1182-1190 July 2018. ITRC-2018.      
 
-[8] Fahri Wisnu Murti, Rahmat Faddli Siregar, Soo Young Shin. "Exploiting non-orthogonal multiple access in downlink coordinated multipoint transmission with the presence of channel estimation error", Physical Communication, May 2018. (IF: 1.583). 5G. (Under Review)   
+[8] Fahri Wisnu Murti, Rahmat Faddli Siregar, Soo Young Shin. "Exploiting non-orthogonal multiple access in downlink coordinated multipoint transmission with the presence of imperfect channel state information", International Journal of Communication Systems, Volume 33, No. 14, pp 1-1 September 2020. (IF: 1.319). B5G.   
 
-[9] Denny Kusuma Hendraningrat, Muhammad Basit Shahab, Soo Young Shin. "Virtual User Pairing Based Non-Orthogonal Multiple Access in Downlink Coordinated Multipoint Transmission", IEEE Communication Letter, April 2019. (Under Review)   
+[9] Denny Kusuma Hendraningrat, Muhammad Basit Shahab, Soo Young Shin. "Virtual User Pairing Based Non-Orthogonal Multiple Access in Downlink Coordinated Multipoint Transmissions", IET Communications, Volume 14, No. 12, pp 1910-1917 July 2020. (IF: 1.779). B5G.   
 
 [10] Man Hee Lee, Shahab Muhammad Basit, Soo Young Shin. "On the Performance of Non-orthogonal Multiple Access considering Backward Compatibility", Physical Communication, Priority Center-2019.
 
