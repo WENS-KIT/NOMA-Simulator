@@ -17,10 +17,12 @@ Best regards,
 The NOMA Simulator Team.
 
 
-# Paper
+# Published article 
 
 Khan, A.; Usman, M.A.; Usman, M.R.; Ahmad, M.; Shin, S.-Y. Link and System-Level NOMA Simulator: The Reproducibility of Research. Electronics 2021, 10, 2388. 
 https://doi.org/10.3390/electronics10192388
+
+# Cite this article as:
 
 @article{2021, title={Link and System-Level NOMA Simulator: The Reproducibility of Research}, 
 volume={10}, ISSN={2079-9292}, DOI={10.3390/electronics10192388}, number={19}, journal={Electronics}, publisher={MDPI AG}, 
