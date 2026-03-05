@@ -72,7 +72,7 @@ Please download Runtime installer if you encounter .dll error.
 
 # Reference Papers
 
-[1] Ahmad M, Shin SY. Massive MIMO NOMA with wavelet pulse shaping to minimize undesired channel interference. ICT Express. 2023 Aug 1;9(4):635-41.
+[1] Ahmad Muneeb, Shin Soo Young. "Massive MIMO NOMA with wavelet pulse shaping to minimize undesired channel interference", ICT Express, Volume 9, No. 4, pp 635-641 August 2023. (IF: 4.2). 5G.
 
 [2]  Muhammad Basit Shahab, Mohammad Irfan, Md. Fazlul Kader, Soo Young Shin. "User pairing schemes for capacity maximization in non-orthogonal multiple access systems", Wireless Communications and Mobile Computing, Volume 16, No. 17, pp 2884-2894 September 2016. (IF: 0.922). 5G.
 
@@ -96,6 +96,6 @@ Please download Runtime installer if you encounter .dll error.
 
 [12] Mohammed Belal Uddin, Md. Fazlul Kader, Soo Young Shin. "Exploiting NOMA in D2D Assisted Full-Duplex Cooperative Relaying", Physical Communication, Priority Center-2018.
 
-[12] Denny Kusuma Hendraningrat, Bhaskara Narottama, Soo Young Shin. "Non-Orthogonal Multiple Access in Downlink Coordinated Multipoint Transmissions", Physical Communication, pp 1-26.
+[13] Denny Kusuma Hendraningrat, Bhaskara Narottama, Soo Young Shin. "Non-Orthogonal Multiple Access in Downlink Coordinated Multipoint Transmissions", Physical Communication, pp 1-26.
 
-[13] Muneeb Ahmad, I Nyoman Apraz Ramatryana, Soo Young Shin. "NOMA and OMA Comparison for Multiple Antenna Technologies under High Capacity Constraints for 5G and Beyond 5G", Journal of Korean Institute of Communications and Information Sciences, Volume 45, No. 11, pp 2004-2013 November 2020. 2020년 교내과제.
+[14] Muneeb Ahmad, I Nyoman Apraz Ramatryana, Soo Young Shin. "NOMA and OMA Comparison for Multiple Antenna Technologies under High Capacity Constraints for 5G and Beyond 5G", Journal of Korean Institute of Communications and Information Sciences, Volume 45, No. 11, pp 2004-2013 November 2020. 2020년 교내과제.
