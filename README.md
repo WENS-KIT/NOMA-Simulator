@@ -72,7 +72,7 @@ Please download Runtime installer if you encounter .dll error.
 
 # Reference Papers
 
-[1] Muneeb Ahmad, Shin Soo Young. "Massive MIMO NOMA with wavelet pulse shaping to minimize undesired channel interference", ICT Express, Volume 9, No. 4, pp 635-641 August 2023. (IF: 4.2). 5G.
+[1] Muneeb Ahmad, Soo Young Shin. "Massive MIMO NOMA with wavelet pulse shaping to minimize undesired channel interference", ICT Express, Volume 9, No. 4, pp 635-641 August 2023. (IF: 4.2). 5G.
 
 [2]  Muhammad Basit Shahab, Mohammad Irfan, Md. Fazlul Kader, Soo Young Shin. "User pairing schemes for capacity maximization in non-orthogonal multiple access systems", Wireless Communications and Mobile Computing, Volume 16, No. 17, pp 2884-2894 September 2016. (IF: 0.922). 5G.
 
